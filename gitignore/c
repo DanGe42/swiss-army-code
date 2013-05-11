@@ -1,0 +1,12 @@
+*.o
+*.swp
+*.aux
+*.log
+*.toc
+
+bin/
+log/
+test/
+
+# Ctags
+tags

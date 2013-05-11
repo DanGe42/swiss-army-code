@@ -1,0 +1,18 @@
+_build/
+_digests
+_log
+
+# Text editor files
+*~
+*.swp
+
+# Auto-generated OCaml files
+*.byte
+*.native
+*.cmo
+*.cmi
+*.cmx
+*.depends
+*.o
+*.where
+*.output
